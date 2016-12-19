@@ -1,0 +1,5 @@
+Player Preferences
+Language: EN
+Volume Level : 20
+Graphic Quality: 100%
+Difficulty Level: 5

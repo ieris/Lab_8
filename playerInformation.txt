@@ -1,0 +1,6 @@
+Player Information
+ID: 25345845
+Name: Dolores
+DOB: 07/18/1988
+Country: WestWorld
+E-mail: Dolores@westworld.com

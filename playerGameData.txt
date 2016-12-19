@@ -1,0 +1,8 @@
+Player Game Data
+Level_1 Score: 947
+Level_2 Score: 1672
+Level_3 Score: 8262
+Current Level: 3
+Remaining Lives: 1
+Difficulty Level: 12
+Max Level Reached: 3
